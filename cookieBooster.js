@@ -20,6 +20,10 @@
         Game.PopRandomWrinkler();
     }
 
+    function forceHandOfFate(){
+        document.getElementById('grimoireSpell1').click();
+    }
+
 
     //Buys the best building given by Cookie Monster mod
     function buyBestBuilding(){
@@ -69,7 +73,8 @@
     const commands = [{keys: ['b', 'B'], func: buyBestBuilding},
                       {keys: ['a', 'A'], func: toggleClick},
                       {keys: ['g', 'G'], func: toggleGoldenClick},
-                      {keys: ['p', 'P'], func: popRandWrinkler}
+                      {keys: ['p', 'P'], func: popRandWrinkler},
+                      {keys: ['f', 'F'], func: forceHandOfFate}
                     ]
 
 

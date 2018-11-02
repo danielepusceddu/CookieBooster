@@ -1,22 +1,14 @@
-## Cookie Booster
+### Cookie Booster
+This script contains auto-clickers and keybinds for Cookie Clicker.<br/>
+It loads Cookie Monster and makes use of it to find the most efficient building to buy.<br/>
+It's meant to be used with a browser add-on such as tempermonkey or violentmonkey, but it can also be copypasted to the browser console.<br/>
 
-This script contains auto-clickers for Cookie Clicker and keybinds to buy the most efficient building and to pop a wrinkler.
-
-It loads Cookie Monster and it makes use of it to find the most efficient building to buy.
-
-It's meant to be used with a browser add-on such as tempermonkey or violentmonkey, but it can also be copypasted to the browser console.
-
-### Keybinds
-
-B   Buys most efficient building
-
-P   Pops a random wrinkler
-
-A   Toggles normal cookie Auto-clicker
-
+## Keybinds
+B   Buys most efficient building<br/>
+F   Casts the spell Force the Hand of Fate if available<br/>
+P   Pops a random wrinkler<br/>
+A   Toggles normal cookie Auto-clicker<br/>
 G   Toggles Golden cookies auto-clicker
 
-
-### Credits
-
+## Credits
 Cookie Monster: https://github.com/Aktanusa/CookieMonster
